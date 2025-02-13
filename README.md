@@ -24,7 +24,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Stats
-![Kriti GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandanKumar&show_icons=true&theme=radical)
+![Kriti GitHub Stats](https://github-readme-stats.vercel.app/api?username=KritiSinha&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanKumar&layout=compact&theme=radical)
 
 ## 🌍 Let's Connect
